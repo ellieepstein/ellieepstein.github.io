@@ -3,7 +3,8 @@ body{
  
 }
 h1{
-  color:blue;
+  color:white;
+  background: blue;
 }
 h3{
   color:purple;

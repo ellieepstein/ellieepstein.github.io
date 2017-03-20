@@ -1,4 +1,26 @@
-h1{
-	color: blue;
-	
+
+title{
+	font-style: bold; 
 }
+
+body {
+	background: pink;
+	text-align: center;
+	font-family: 'Arvo', serif;
+}
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color:purple;
+}
+
+ a {
+
+	color: green;
+	font-style: italic;
+
+}
+
