@@ -1,0 +1,148 @@
+
+
+
+
+header{
+	background: black;
+	padding: 15px;
+	margin: 0 auto;
+}
+
+nav{
+
+	float: right;
+	width: 400px;
+	color: white;
+	margin: 0;
+	padding: 10px;
+	font-family: "Oswald";
+
+}
+
+a{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	width: 200px;
+
+
+}
+h1{
+	margin: 0;
+	color: yellow;
+	float: left;
+	width: 500px;
+	font-family: "Merriweather", serif;
+
+}
+h2{
+font-family: "Oswald";
+
+}
+
+.meet{
+	margin: 0;
+	background-image: url(../img/coworking.jpg);
+}
+
+.container
+{
+	margin: 0 auto;
+	overflow: auto;
+
+}
+
+p{
+	text-align: center;
+}
+
+.content{
+	width: 960px;
+	margin: 0 auto;
+
+}
+
+.headtwo{
+	margin: 0 auto;
+	text-align: center;
+	font-family: "Merriweather";
+	background: #C6C6C6;
+}
+
+.hello{
+	background: white;
+	width: 300px;
+	float: right;
+	padding: 10px 20px;
+	margin: 50px 150px;
+}
+.button {
+    background-color: lightgrey; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	font-family: "Oswald";
+	background: #C6C6C6;
+
+}
+.profile {
+ 	background-color: yellow; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.create{
+    border: none;
+    color: black;
+    padding: 15px 15px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: left;
+    width: 280px;
+
+}
+.find
+{
+    border: none;
+    color: black;
+    padding: 15px 15px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 280px;
+}
+
+
+.findr
+{
+    border: none;
+    color: black;
+    padding: 15px 15px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    float: right;
+    width: 280px;
+
+}
+.clear{
+	clear: both;
+}
+
+body{
+font-family: "Source Sans Pro"
+
+}
